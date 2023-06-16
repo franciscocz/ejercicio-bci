@@ -1,5 +1,8 @@
 # Ejercicio BCI
 
+### Requerimientos
+Java 8, Maven 3.8
+
 ### Compilación
 
 ```sh
